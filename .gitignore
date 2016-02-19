@@ -1,0 +1,12 @@
+# Ignore build files
+target/
+*.class
+
+# IDEA project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+tmp/
+.DS_Store
